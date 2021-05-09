@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Hector Quemada"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,7 +24,7 @@ Kalamazoo, MI 49004 USA
 **Business Telephone:** (269) 267 4598
 
 
-__**Education and Degrees:**__
+**Education and Degrees:**
 
 1979-1986 University of Utah, Salt Lake City, Utah.: Ph.D., Biology
 (Cell and Molecular Biology).
