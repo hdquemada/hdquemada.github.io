@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 This web site is under construction. The CV page is current.
 
 A data-driven personal website
