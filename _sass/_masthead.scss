@@ -10,8 +10,6 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
 
   &__inner-wrap {
     @include container;
