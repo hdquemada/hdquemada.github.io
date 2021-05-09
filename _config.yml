@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Information for Hector Quemada"
 title_separator          : "-"
-name                     : &name "Hector Quemada, Ph.D."
+name                     : &name "Hector Quemada"
 description              : &description "Principal Research Associate, Western Michigan University"
 url                      : https://hdquemada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hector Quemada"
+  name             : "Hector Quemada, Ph.D."
   avatar           : "DSC_0011-removebg.png"
   bio              : "Principal Research Associate"
   location         : "Kalamazoo, Michigan"
