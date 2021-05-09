@@ -24,7 +24,7 @@ Kalamazoo, MI 49004 USA
 **Business Telephone:** (269) 267 4598
 
 
-[Education and Degrees]{.underline}:
+__**Education and Degrees:**__
 
 1979-1986 University of Utah, Salt Lake City, Utah.: Ph.D., Biology
 (Cell and Molecular Biology).
