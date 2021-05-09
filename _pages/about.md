@@ -1,12 +1,9 @@
 ---
 permalink: /
-title: "About this site"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 ---
-
-
-This web site is under construction. The CV page is current.
 
 My Bio
 ======
