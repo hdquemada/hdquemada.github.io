@@ -483,8 +483,7 @@ cucumber mosaic virus, zucchini yellow mosaic virus, and watermelon
 mosaic virus-2 is resistant to these aphid-borne viruses in the field.
 Molecular Breeding 3: 279-290.
 
-Pang, S-Z; F-J Jan, D.M. Tricoli, **H.D. Quemada**, and D. Gonsalves,
-1996. Post-transcriptional transgene silencing and consequent tospovirus
+Pang, S-Z, F-J Jan, D.M. Tricoli, **H.D. Quemada**, and D. Gonsalves, 1996. Post-transcriptional transgene silencing and consequent tospovirus
 resistance in transgenic lettuce are affected by transgene dosage, plant
 development, and environmental factors. The Plant Journal 9: 899-909.
 
