@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # RESUMÉ OF HECTOR D. QUEMADA
 
 **Name:** Hector D. Quemada
