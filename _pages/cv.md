@@ -384,8 +384,7 @@ Raybould, A. and **H. Quemada**. 2010. Bt crops and food security in
 developing countries: realised benefits, sustainable use and lowering
 barriers to adoption. Food Security 2: 247--259.
 
-Ramessar, K., T. Capell, R.M. Twyman, **H. Quemada**, and P. Christou.
-2009. Calling the tunes on transgenic crops: the case for regulatory
+Ramessar, K., T. Capell, R.M. Twyman, **H. Quemada**, and P. Christou. 2009. Calling the tunes on transgenic crops: the case for regulatory
 harmony. Molecular Breeding 23: 99--112.
 
 Sengooba, T., R. Grumet, J. Hancock, B. Zawedde, L. Kitandu, C.
@@ -411,8 +410,7 @@ Ramessar, K., T. Capell, R.M. Twyman, H. Quemada, and P. Christou. 2008.
 Calling the tunes on transgenic crops: the case for regulatory harmony.
 Molecular Breeding DOI 10.1007/s11032-008-9217-z.
 
-Ramessar K., T. Capell, R.M. Twyman, **H. Quemada** and P. Christou.
-2008. Trace and Traceability--A Call for Regulatory Harmony. Nature
+Ramessar K., T. Capell, R.M. Twyman, **H. Quemada** and P. Christou. 2008. Trace and Traceability--A Call for Regulatory Harmony. Nature
 Biotechnology 26: 975 - 978.
 
 **Quemada, Hector D.**, David M. Tricoli, Jack E. Staub, Eileen A.
