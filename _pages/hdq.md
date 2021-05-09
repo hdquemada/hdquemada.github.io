@@ -1,8 +1,8 @@
-**RESUMÉ OF HECTOR D. QUEMADA**
+# RESUMÉ OF HECTOR D. QUEMADA
 
-[Name]{.underline}: Hector D. Quemada
+**Name:** Hector D. Quemada
 
-[Address]{.underline}: Department of Biological Sciences
+**Address:** Department of Biological Sciences
 
 Western Michigan University
 
@@ -10,12 +10,11 @@ Western Michigan University
 
 Kalamazoo, MI 49004 USA
 
-[Title]{.underline}: Principal Research Associate
+**Title:**  Principal Research Associate
 
-[Business telephone]{.underline}: (269) 267 4598
+**Business Telephone:** (269) 267 4598
 
-[Home telephone]{.underline}: (269) 343 2263\
-\
+
 [Education and Degrees]{.underline}:
 
 1979-1986 University of Utah, Salt Lake City, Utah.: Ph.D., Biology
