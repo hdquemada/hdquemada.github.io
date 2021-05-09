@@ -11,18 +11,14 @@ redirect_from:
 
 **Name:** Hector D. Quemada
 
-**Address:** Department of Biological Sciences
-
-Western Michigan University
-
-1903 West Michigan Avenue
-
+**Address:** Department of Biological Sciences<br>
+Western Michigan University<br>
+1903 West Michigan Avenue<br>
 Kalamazoo, MI 49004 USA
 
 **Title:**  Principal Research Associate
 
 **Business Telephone:** (269) 267 4598
-
 
 **Education and Degrees:**
 
@@ -39,7 +35,7 @@ Kalamazoo, MI 49004 USA
 December 2018-Present Principal Research Associate, Department of
 Biological Sciences, Western Michigan University
 
-Lead a group of consultants to work with the Foundation for the National
+Led a group of consultants to work with the Foundation for the National
 Institutes of Health and the African Union Development Agency to provide
 regulators in several countries in Africa with the necessary technical
 background and strengthened capacity to handle applications for research
