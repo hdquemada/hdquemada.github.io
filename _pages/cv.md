@@ -146,7 +146,8 @@ Cloned and engineered viral genes to confer viral resistance to plants;
 introduced these genes into plants as proof of concept.
 
 **Funded Research**
-]{.underline}**Gene Flow from Transgenic Cucurbita pepo into
+
+Gene Flow from Transgenic Cucurbita pepo into
 "Free-living" populations. USDA Risk Assessment Grant, 1999-2002. $130,000.
 
 **Other Funded projects:**
@@ -158,10 +159,12 @@ Regulatory Development for HEG-modified mosquitoes. Foundation for the
 National Institutes of Health. 2012-2016. $1,096,600.
 
 Regulatory Capacity Building for Gene Drive Research. Foundation for the
-National Institutes of Health. 2016-2019. $1,217626.
+National Institutes of Health. 2016-2019. $1,217,626.
 
 Transitional Support for Gene Drive Research. Foundation for the
 National Institutes of Health. 2017-2019. $2,110,008.
+
+Support for FNIH Gene Drive Research Coordination. 2019-2023. $2,849,720
 
 **International Consultancies**
 
