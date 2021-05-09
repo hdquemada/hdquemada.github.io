@@ -34,7 +34,7 @@ Kalamazoo, MI 49004 USA
 1973-1977 University of Kansas, Lawrence, Kansas.: B.S., Biology
 (Systematics and Ecology) with honors, *summa cum laude*.
 
-**[Employment History]{.underline}:**
+**Employment History:**
 
 December 2018-Present Principal Research Associate, Department of
 Biological Sciences, Western Michigan University
@@ -82,8 +82,8 @@ conduct contract research for client companies to generate environmental
 risk assessment and food/feed safety data required for regulatory
 approvals of products; manage research collaborations and product
 development. Clients include small and regional-based agricultural
-technology companies, and a major land grant university.\
-\
+technology companies, and a major land grant university.
+
 Advised foreign government clients and USAID in the area of agricultural
 biotechnology policy, research capability, and biosafety. Foreign
 assignments include consultations in India, the Philippines, Egypt,
@@ -145,29 +145,25 @@ for regulatory affairs, patents, and licensing.
 Cloned and engineered viral genes to confer viral resistance to plants;
 introduced these genes into plants as proof of concept.
 
-**[Funded Research\
-\
+**Funded Research**
 ]{.underline}**Gene Flow from Transgenic Cucurbita pepo into
-"Free-living" populations. USDA Risk Assessment Grant, 1999-2002.
-\$130,000.\
-\
-[**Other Funded projects:\
-**\
-]{.underline}Biotechnology/Biodiversity Interface grant program,
-component of USAID Program for Biosafety Systems. 2003-2008.
-\$7,605,039.
+"Free-living" populations. USDA Risk Assessment Grant, 1999-2002. $130,000.
+
+**Other Funded projects:**
+
+Biotechnology/Biodiversity Interface grant program,
+component of USAID Program for Biosafety Systems. 2003-2008. $7,605,039.
 
 Regulatory Development for HEG-modified mosquitoes. Foundation for the
-National Institutes of Health. 2012-2016. \$1,096,600.
+National Institutes of Health. 2012-2016. $1,096,600.
 
 Regulatory Capacity Building for Gene Drive Research. Foundation for the
-National Institutes of Health. 2016-2019. \$1,217626.
+National Institutes of Health. 2016-2019. $1,217626.
 
 Transitional Support for Gene Drive Research. Foundation for the
-National Institutes of Health. 2017-2019. \$2,110,008.
+National Institutes of Health. 2017-2019. $2,110,008.
 
-**[International Consultancies\
-]{.underline}**
+**International Consultancies**
 
 August 2006. World Bank and International Food Policy Research
 Institute. Assessment of scientific capacity to support a regional
@@ -176,8 +172,8 @@ Conducted field visits to Benin and Togo, where I visited research
 institutes, government agencies, and universities to determine the level
 of scientific capacity (human and institutional resources) that could be
 contributed by those countries to a regional biosafety regulatory
-system.\
-\
+system.
+
 2004-2009. US Department of Agriculture (Foreign Agricultural Services).
 Planning and implementation of capacity building activities for the
 National Biosafety Committee of Serbia-Montenegro. Organized and
@@ -185,20 +181,20 @@ implemented a series of workshops on biosafety and agricultural
 biotechnology. Assisted in establishing Institutional Biosafety
 Committees nationwide.
 
-2004\. National Center for Food and Agricultural Policy (NCFAP)/US
+2004. National Center for Food and Agricultural Policy (NCFAP)/US
 Department of Agriculture. Team member: Served as resource person for
 technical expertise on agricultural biotechnology during a visit to
 Thailand. Advised Thai Department of Agriculture scientists on
 approaches to tracing genetically engineered papaya seeds.\
-\
+
 2003. USAID/Agricultural Biotechnology Support Program II/Development
 Alternatives, Inc. Team member: Conducted an assessment of status of
 biotechnology research in Indonesia. Made recommendations for USAID
 activities to strengthen biotechnology capacity in that country, as part
 of a broader USAID agricultural strategy. Collected technical
 information to be used in ABSPII priority setting session held August
-4-5, 2003.\
-\
+4-5, 2003.
+
 2003. USAID/Chemonics International., Inc. Conducted an assessment of
 scientific research project concept notes. Interviewed researchers and
 made recommendations regarding merit of the projects and requirements
@@ -212,44 +208,44 @@ tuber moth potatoes (South Africa).
 strategy and product delivery for commercialization of transgenic
 mustard producing oil enhanced in beta-carotene (India).
 
-2003\. Council for Agricultural Science and Technology. Team member:
+2003. Council for Agricultural Science and Technology. Team member:
 Visited the People's Republic of China to meet with various regulatory
 officials as part of a technical exchange project, funded by USDA/FAS.\
-\
+
 2002. USAID/Agricultural Biotechnology Support Program. Team member:
 Conducted an assessment of status of biotechnology research in South
 Africa. Made recommendations for USAID activities to strengthen
 biotechnology capacity in that country (research, commercialization,
 biosafety regulations, and intellectual property rights).
 
-2002\. USAID/Agricultural Biotechnology Support Program. Team Leader:
+2002. USAID/Agricultural Biotechnology Support Program. Team Leader:
 Conducted an assessment of status of biotechnology research in Kenya.
 Made recommendations for USAID activities to strengthen biotechnology
 capacity in that country (research, commercialization, biosafety
-regulations, and intellectual property rights).\
-\
+regulations, and intellectual property rights).
+
 2002. USAID/Agricultural Biotechnology Support Program. Team Leader:
 Conducted an assessment of status of biotechnology research in Uganda.
 Made recommendations for USAID activities to strengthen biotechnology
 capacity in that country (research, commercialization, biosafety
 regulations, and intellectual property rights).
 
-2001\. USAID/Development Alternatives,Inc. Developed recommendations for
+2001. USAID/Development Alternatives,Inc. Developed recommendations for
 food and feed safety testing guidelines and environmental safety testing
 guidelines to enable commercialization of genetically engineered crops
-in Egypt.\
-\
+in Egypt.
+
 2000. USAID. Assisted a multidisciplinary team of consultants in
 evaluating biotechnology capacity in the Philippines and making
 recommendations for the allocation of US\$30 million PL480 funds
 earmarked for biotechnology research.
 
-1998\. Government of India/Rockefeller Foundation. Evaluated the range of
+1998. Government of India/Rockefeller Foundation. Evaluated the range of
 agricultural biotechnology programs in India, identified national needs
 for testing facilities, made recommendations for the placement and
 general features of those facilities.
 
-**[Other]{.underline}:**
+**Other:**
 
 Reviewer, consensus report, "Genetically Engineered Crops: Past
 Experience and Future Prospects", 2016. United States National Academies
@@ -271,18 +267,18 @@ Associate Editor, *Transgenic Research*, 2001-present.
 Steering Committee Member, Workshop on Research to Improve the
 Evaluation of the Impact os Genetically Engineered Organisms on
 Terrestrial and Aquatic Wildlife and Habitats. United States National
-Research Council, 2007.\
-\
+Research Council, 2007.
+
 Co-organizer, Models of Food Safety Assessment of Transgenic Crops,
 Workshop funded by USAID and the Rockefeller Foundation, Washington DC,
 May 6-8, 2003
 
 Co-organizer, Agricultural Biotechnology Short Course, a collaboration
-between Michigan State University and the USDA/FAS. 2002-2004.\
-\
+between Michigan State University and the USDA/FAS. 2002-2004.\]
+
 Member, United States Department of Agriculture Plant Variety Protection
-Advisory Board, 2002-2004\
-\
+Advisory Board, 2002-2004
+
 Author, Petition for exemption from the requirement of a tolerance for
 *Cucurbita pepo* L. cultivar YS20 CZW3. Submitted to EPA November 27,
 1995.
@@ -303,13 +299,13 @@ Chairman 1991-1992.
 
 1991-1992: Secretary, Upjohn Biosafety Regulatory Committee.
 
-[Publications]{.underline}:
+**Publications:**
 
 Kausch, A.P, Nelson-Vasilchik, K., Hague, J., Mookkan, M., **Quemada,
 H.**, Dellaporta, S., Fragoso, C., Zhang, A. 2019. Edit at Will:
 Genotype Independent Plant Transformation in the Era of Advanced
 Genomics and Genome Editing. Plant Science. doi:
-[[10.1016/j.plantsci.2019.01.006]{.underline}](https://doi.org/10.1016/j.plantsci.2019.01.006)
+[10.1016/j.plantsci.2019.01.006](https://doi.org/10.1016/j.plantsci.2019.01.006)
 
 James, S., Collins, F., Welkhoff, P., Emerson, C., Godfray, H.,
 Gottlieb, M., Greenwood, B., Lindsay, S., Mbogo, C., Okumu, F.,
@@ -336,9 +332,7 @@ J., Devereaux, M., Ellsworth, P., Friedman, R., Gantz, V., Gibson, C.,
 Hay. B., Hoddle, M., James, A., James, S., Jorgenson, L., Kalichman, M.,
 Marshall, J., McGinnis, W., Newman, J., Pearson, A., **Quemada, H.**,
 Rudenko, L., Shelton, A., Vinetz, J., Weisman, J., Wong, B., & Wozniak,
-C. 2017. Rules of the road for insect gene
-
-drive research and testing. Nature Biotechnology 35: 716-718.
+C. 2017. Rules of the road for insect gene drive research and testing. Nature Biotechnology 35: 716-718.
 
 Roberts, A., de Andrade, P.P., Okumu, F., **Quemada, H.,** Savadogo, M.,
 Singh, J.A. and James, S. 2017. Results from the Workshop "Problem
@@ -418,7 +412,7 @@ Calling the tunes on transgenic crops: the case for regulatory harmony.
 Molecular Breeding DOI 10.1007/s11032-008-9217-z.
 
 Ramessar K., T. Capell, R.M. Twyman, **H. Quemada** and P. Christou.
-2008. Trace and Traceability\--A Call for Regulatory Harmony. Nature
+2008. Trace and Traceability--A Call for Regulatory Harmony. Nature
 Biotechnology 26: 975 - 978.
 
 **Quemada, Hector D.**, David M. Tricoli, Jack E. Staub, Eileen A.
@@ -437,18 +431,18 @@ Hartley, S., Hellmich, R.L., Huesing, J.E., Jepson, P.C., Layton, R.,
 **Quemada, H.**, Raybould, A., Rose, R.I., Schiemann, J., Sears, M.K.,
 Shelton, A.M., Sweet, J., Vaituzis, Z., Wolt, J.D. 2008. Assessment of
 risk of insect-resistant transgenic crops to nontarget arthropods.
-Nature Biotechnology 26: 203-208.\
-\
+Nature Biotechnology 26: 203-208.
+
 Linacre, N.A., J. Gaskell, M. W. Rosegrant, J. Falck-Zepeda, **H.
 Quemada**, M. Halsey and R. Birner. 2006. Strategic environmental
 assessments for genetically modified organisms. Impact Assessment and
-Project Appraisal 24: 35-43.\
-\
+Project Appraisal 24: 35-43.
+
 Linacre, N.A.; Gaskell, J., Rosegrant, M.W.; Falck-Zepeda, J.;
 **Quemada, H.**; Halsey, M.; Birner, R. 2005. Analysis for Biotechnology
 Innovations Using Strategic Environmental Assessment (SEA).
-International Food Policy Research Institute: Washington, D.C.\
-\
+International Food Policy Research Institute: Washington, D.C.
+
 Atanassov, A.; Bahieldin, A.; Brink, J.; Burachik, M.; Cohen, J.I.;
 Dhawan, V.; Ebora, R.V.; Falck-Zepeda, J.; Herrera-Estrella, L.; Komen,
 J.; Low, F.C.; Omaliko, E.; Odhiambo, B.; **Quemada, H**.; Peng, Y.:
@@ -466,29 +460,29 @@ D.C., International Food Policy Research Institute.
 Decker-Walters, D.S.; Chung., S.; Staub, J.E.; **Quemada, H.D.**;
 Lopez-Sese, A.I. 2002. The origin and genetic affinities of wild
 populations of melon (*Cucumis melo*, *Cucurbitaceae*) in North America.
-Plant Systematics and Evolution 233:183-197.\
-\
+Plant Systematics and Evolution 233:183-197.
+
 **Quemada, H.** 2002. Case Study: Virus resistant crops. In
 *GeneticallyModified Crops: Assessing Safety.* (Atherton, K., ed..).
-Taylor & Francis : New York and London. pp. 219-240.\
-\
+Taylor & Francis : New York and London. pp. 219-240.
+
 Decker-Walters, D. S., J. E. Staub, S. M. Chung, E. Nakata, and **H. D.
 Quemada**. 2001. Diversity in free-living populations of *Cucurbita
 pepo* as assessed by random amplified polymorphic DNA. Systematic Botany
-27:19-28.\
-\
+27:19-28.
+
 Pang, S.; Jan, F.; Tricoli, D. M.; Russell, P. F.; Carney, K. J.; Hu, J.
 S.; Fuchs, M.; **Quemada, H. D.**; Gonsalves, D. 2000. Resistance to
 squash mosaic comovirus in transgenic squash plants expressing its coat
-protein genes. Molecular Breeding 6:87-93.\
-\
+protein genes. Molecular Breeding 6:87-93.
+
 Fuchs, M., J.R. McFerson, D.M. Tricoli, J.R. McMaster, RZ. Deng, M.L.
 Boeshore, J.F. Reynolds, P.F. Russell, **H.D. Quemada**, and D.
 Gonsalves, 1997. Cantaloupe line CZW-30 containing coat protein genes of
 cucumber mosaic virus, zucchini yellow mosaic virus, and watermelon
 mosaic virus-2 is resistant to these aphid-borne viruses in the field.
-Molecular Breeding 3: 279-290.\
-\
+Molecular Breeding 3: 279-290.
+
 Pang, S-Z; F-J Jan, D.M. Tricoli, **H.D. Quemada**, and D. Gonsalves,
 1996. Post-transcriptional transgene silencing and consequent tospovirus
 resistance in transgenic lettuce are affected by transgene dosage, plant
@@ -499,27 +493,27 @@ K.C. Hadden, P.T. Himmel, J.P. Hubbard, M.L. Boeshore, and **H.D.
 Quemada**, 1995. Field Evaluation of transgenic squash containing single
 or multiple virus coat protein gene constructs for resistance to
 cucumber mosaic virus, watermelon mosaic virus 2, and zucchini yellow
-mosaic virus. Bio\\Technology 13: 1458-1465.
+mosaic virus. BioTechnology 13: 1458-1465.
 
-**Quemada, H.D.**, 1994. The Asgrow Seed Company\'s experience with
-vegetable biotechnology. [In]{.underline} *Biosafety for Sustainable
+**Quemada, H.D.**, 1994. The Asgrow Seed Company's experience with
+vegetable biotechnology. In *Biosafety for Sustainable
 Agriculture: Sharing Biotechnology Regulatory Experiences of the Western
 Hemisphere* (Krattiger, A.F., and A. Rosemarin, eds.). ISAAA: Ithaca &
 SEI: Stockholm. pp. 167-173.
 
-**Quemada, H.**, **D.** Gonsalves, and J.L. Slightom, 1991. CMV-C coat
+**Quemada, H.**, D. Gonsalves, and J.L. Slightom, 1991. CMV-C coat
 protein gene expression in tobacco: protection against infection by CMV
 strains transmitted mechanically or by aphids. Phytopathology 81:
 794-802.
 
 **Quemada, H.**, L.C. Sieu, D.R. Siemieniak, D. Gonsalves, and J.L.
 Slightom, 1990. Watermelon mosaic virus II and zucchini yellow mosaic
-virus: cloning of 3\'-terminal regions, nucleotide sequences, and
+virus: cloning of 3'-terminal regions, nucleotide sequences, and
 phylogenetic comparisons. Journal of General Virology 71: 1451-1460.
 
-**Quemada, H.**, B. L\'Hostis, D. Gonsalves, I. Reardon, R. Heinrikson,
+**Quemada, H.**, B. L'Hostis, D. Gonsalves, I. Reardon, R. Heinrikson,
 E.L. Hiebert, L.C. Sieu, and J. L. Slightom, 1990. The nucleotide
-sequences of cDNA clones of the 3\' terminal regions of papaya ringspot
+sequences of cDNA clones of the 3' terminal regions of papaya ringspot
 virus strains W and P. Journal of General Virology 71: 203-210.
 
 **Quemada, H**., C. Kearney, D. Gonsalves, and J.L. Slightom, 1989.
@@ -528,33 +522,33 @@ cucumber mosaic virus strains C and WL RNA 3. Journal of General
 Virology 70: 1065-1073.
 
 Slightom, J.L. and **H.D. Quemada**, 1988. Procedures for constructing
-ds-cDNA clone banks. In: [Plant]{.underline} [Molecular]{.underline}
-[Biology]{.underline} (eds. S.B. Gelvin and R.A. Schilperoort), Martinus
+ds-cDNA clone banks. In: *Plant Molecular
+Biology* (eds. S.B. Gelvin and R.A. Schilperoort), Martinus
 Nijhoff, Dordecht, The Netherlands.
 
 **Quemada, H**., E.J. Roth, and K.G. Lark, 1987. Changes in methylation
 of tissue cultured soybean cells detected by digestion with the
 restriction enzymes HpaII and MspI. Plant Cell Reports 6: 63-66.
 
-[Patents]{.underline}:
+**Patents:**
 
-U.S.: \#6337431 "Transgenic plants expressing DNA constructs containing
+U.S.: #6337431 "Transgenic plants expressing DNA constructs containing
 a plurality of genes to impart virus resistance."
 
-\#5,349,128 "Cucumber Mosaic Virus Coat Protein Gene."
+#5,349,128 "Cucumber Mosaic Virus Coat Protein Gene."
 
-\#5,623,066 "Cucumber Mosaic Virus Coat Protein Gene.".
+#5,623,066 "Cucumber Mosaic Virus Coat Protein Gene.".
 
-Canada: \#1,335,965 "Cucumber Mosaic Virus Coat Protein Gene".
+Canada: #1,335,965 "Cucumber Mosaic Virus Coat Protein Gene".
 
-Australia: \#621336 "Cucumber Mosaic Virus Coat Protein Gene".
+Australia: #621336 "Cucumber Mosaic Virus Coat Protein Gene".
 
-\#634168 "Potyvirus Coat Protein Genes and Plants Transformed
+#634168 "Potyvirus Coat Protein Genes and Plants Transformed
 Therewith".
 
-\#634171 "Cucumber Mosaic Virus Coat Protein Gene".
+#634171 "Cucumber Mosaic Virus Coat Protein Gene".
 
-\#639891 "Expression Cassette for Plants".
+#639891 "Expression Cassette for Plants".
 
 Europe: E 107361 (Austria). "CMV coat protein gene."
 
