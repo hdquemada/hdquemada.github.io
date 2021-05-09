@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /
 title: "About this site"
 excerpt: "About me"
