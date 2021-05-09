@@ -11,7 +11,9 @@ redirect_from:
 
 **Name:** Hector D. Quemada
 
-**Address:** Department of Biological Sciences<br>
+**Address:**
+
+Department of Biological Sciences<br>
 Western Michigan University<br>
 1903 West Michigan Avenue<br>
 Kalamazoo, MI 49004 USA
