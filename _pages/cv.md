@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: /_pages/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+# Resume of Hector Quemada
 
 **Name:** Hector D. Quemada
 
