@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Hector Quemada"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
