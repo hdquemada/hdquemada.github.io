@@ -43,7 +43,7 @@ Lead a group of consultants to work with the Foundation for the National
 Institutes of Health and the African Union Development Agency to provide
 regulators in several countries in Africa with the necessary technical
 background and strengthened capacity to handle applications for research
-and eventual deployment of gene drive technology.
+and eventual deployment of gene drive technology.H
 
 November 2008-December 2018 Director, Biosafety Resource Network, Donald
 Danforth Plant Science Center
@@ -345,8 +345,7 @@ Control of Malaria and Dengue." Z. Adelman, ed. Elsevier, London. pp.
 
 Haggman, H., A. Raybould, A. Borem, T. Fox, L. Handley, M. Hertzberg, M.
 Lu, P. Macdonald, T. Oguchi, G. Pasquali, L. Pearson, G. Peter, **H.
-Quemada**, A.Seguin, K. Tattersall, E. Ulian, C. Walter and M. McLean.
-2013. Genetically engineered trees for plantation forests: key
+Quemada**, A.Seguin, K. Tattersall, E. Ulian, C. Walter and M. McLean. 2013. Genetically engineered trees for plantation forests: key
 considerations for environmental risk assessment. Plant Biotechnology
 Journal doi: 10.1111/pbi.12100.
 
@@ -368,9 +367,7 @@ Resistance to Potato Tuber Moth. Journal of the American Society for
 Horticultural Science 135: 317--324.
 
 **Quemada, H**, K. Zarka, W. Pett, G. Bothma, K. Felcher, H. Mirendil,
-M. Koch, J. Brink and
-
-D. Douches. 2010. Safety Evaluations of the Cry1Ia1 Protein Found in the
+M. Koch, J. Brink and D. Douches. 2010. Safety Evaluations of the Cry1Ia1 Protein Found in the
 Transgenic Potato 'SpuntaG2'. Journal of the American Society for
 Horticultural Science 135: 325--332.
 
@@ -406,7 +403,7 @@ Population Size and Incidence of Virus Infection in Free-Living
 Populations of *Cucurbita pepo*. Environmental Biosafety Research, 7:
 185-196.
 
-Ramessar, K., T. Capell, R.M. Twyman, H. Quemada, and P. Christou. 2008.
+Ramessar, K., T. Capell, R.M. Twyman, **H. Quemada**, and P. Christou. 2008.
 Calling the tunes on transgenic crops: the case for regulatory harmony.
 Molecular Breeding DOI 10.1007/s11032-008-9217-z.
 
