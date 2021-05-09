@@ -86,7 +86,7 @@ author:
   location         : "Kalamazoo, Michigan"
   employer         : "Western Michigan University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hector+quemada"
-  googlescholar    : "https://scholar.google.com/citations?user=KD3qL8UAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=KD3qL8UAAAAJ&hl=en"
   email            : "hector.quemada@wmich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
