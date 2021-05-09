@@ -165,8 +165,8 @@ National Institutes of Health. 2017-2019. $2,110,008.
 
 **International Consultancies**
 
-August 2006. World Bank and International Food Policy Research
-Institute. Assessment of scientific capacity to support a regional
+World Bank and International Food Policy Research
+Institute (2006). Assessment of scientific capacity to support a regional
 biosafety system in West African Economic and Monetary Union countries.
 Conducted field visits to Benin and Togo, where I visited research
 institutes, government agencies, and universities to determine the level
@@ -174,37 +174,37 @@ of scientific capacity (human and institutional resources) that could be
 contributed by those countries to a regional biosafety regulatory
 system.
 
-2004-2009. US Department of Agriculture (Foreign Agricultural Services).
+US Department of Agriculture-Foreign Agricultural Services (2004-2009).
 Planning and implementation of capacity building activities for the
 National Biosafety Committee of Serbia-Montenegro. Organized and
 implemented a series of workshops on biosafety and agricultural
 biotechnology. Assisted in establishing Institutional Biosafety
 Committees nationwide.
 
-2004. National Center for Food and Agricultural Policy (NCFAP)/US
-Department of Agriculture. Team member: Served as resource person for
+National Center for Food and Agricultural Policy/US
+Department of Agriculture (2004). Team member: Served as resource person for
 technical expertise on agricultural biotechnology during a visit to
 Thailand. Advised Thai Department of Agriculture scientists on
-approaches to tracing genetically engineered papaya seeds.\
+approaches to tracing genetically engineered papaya seeds.
 
-2003. USAID/Agricultural Biotechnology Support Program II/Development
-Alternatives, Inc. Team member: Conducted an assessment of status of
+USAID/Agricultural Biotechnology Support Program II/Development
+Alternatives, Inc (2003). Team member: Conducted an assessment of status of
 biotechnology research in Indonesia. Made recommendations for USAID
 activities to strengthen biotechnology capacity in that country, as part
 of a broader USAID agricultural strategy. Collected technical
 information to be used in ABSPII priority setting session held August
 4-5, 2003.
 
-2003. USAID/Chemonics International., Inc. Conducted an assessment of
+USAID/Chemonics International., Inc (2003). Conducted an assessment of
 scientific research project concept notes. Interviewed researchers and
 made recommendations regarding merit of the projects and requirements
 for full proposals to be submitted to USAID Uganda.
 
-2002-present. USAID/Michigan State University. Coordinator of regulatory
+USAID/Michigan State University (2002-2009). Coordinator of regulatory
 strategy and product delivery for commercialization of transgenic potato
 tuber moth potatoes (South Africa).
 
-2002-2004. USAID/Michigan State University. Coordinator of regulatory
+USAID/Michigan State University (2002-2004). Coordinator of regulatory
 strategy and product delivery for commercialization of transgenic
 mustard producing oil enhanced in beta-carotene (India).
 
@@ -212,35 +212,35 @@ mustard producing oil enhanced in beta-carotene (India).
 Visited the People's Republic of China to meet with various regulatory
 officials as part of a technical exchange project, funded by USDA/FAS.\
 
-2002. USAID/Agricultural Biotechnology Support Program. Team member:
+USAID/Agricultural Biotechnology Support Program (2002). Team member:
 Conducted an assessment of status of biotechnology research in South
 Africa. Made recommendations for USAID activities to strengthen
 biotechnology capacity in that country (research, commercialization,
 biosafety regulations, and intellectual property rights).
 
-2002. USAID/Agricultural Biotechnology Support Program. Team Leader:
+USAID/Agricultural Biotechnology Support Program (2002). Team Leader:
 Conducted an assessment of status of biotechnology research in Kenya.
 Made recommendations for USAID activities to strengthen biotechnology
 capacity in that country (research, commercialization, biosafety
 regulations, and intellectual property rights).
 
-2002. USAID/Agricultural Biotechnology Support Program. Team Leader:
+USAID/Agricultural Biotechnology Support Program (2002). Team Leader:
 Conducted an assessment of status of biotechnology research in Uganda.
 Made recommendations for USAID activities to strengthen biotechnology
 capacity in that country (research, commercialization, biosafety
 regulations, and intellectual property rights).
 
-2001. USAID/Development Alternatives,Inc. Developed recommendations for
+USAID/Development Alternatives,Inc (2001). Developed recommendations for
 food and feed safety testing guidelines and environmental safety testing
 guidelines to enable commercialization of genetically engineered crops
 in Egypt.
 
-2000. USAID. Assisted a multidisciplinary team of consultants in
+USAID (2000). Assisted a multidisciplinary team of consultants in
 evaluating biotechnology capacity in the Philippines and making
 recommendations for the allocation of US\$30 million PL480 funds
 earmarked for biotechnology research.
 
-1998. Government of India/Rockefeller Foundation. Evaluated the range of
+Government of India/Rockefeller Foundation (1998). Evaluated the range of
 agricultural biotechnology programs in India, identified national needs
 for testing facilities, made recommendations for the placement and
 general features of those facilities.
