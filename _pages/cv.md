@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Resume of Hector Quemada
-
 **Name:** Hector D. Quemada
 
 **Address:** Department of Biological Sciences
