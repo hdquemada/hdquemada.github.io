@@ -212,7 +212,7 @@ USAID/Michigan State University (2002-2004). Coordinator of regulatory
 strategy and product delivery for commercialization of transgenic
 mustard producing oil enhanced in beta-carotene (India).
 
-2003. Council for Agricultural Science and Technology. Team member:
+Council for Agricultural Science and Technology (2003). Team member:
 Visited the People's Republic of China to meet with various regulatory
 officials as part of a technical exchange project, funded by USDA/FAS.\
 
