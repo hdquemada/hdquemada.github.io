@@ -54,8 +54,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fdf6e3;
-$background-color           : #fdf6e3;
+$body-color                 : #f4f4f4;
+$background-color           : #f4f4f4;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -65,7 +65,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #523d06;
+$info-color                 : #C0B283;
 /* brands */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
@@ -91,10 +91,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#fff, $link-color, 50%);
-$link-color-visited         : mix(#000, $link-color, 50%);
+$link-color-hover           : mix(#000, $link-color, 50%);
+$link-color-visited         : mix(#fff, $link-color, 50%);
 $masthead-link-color        : $info-color;
-$masthead-link-color-hover  : mix(#000, #112E5D, 50%);
+$masthead-link-color-hover  : mix(#000, #C0B283, 50%);
 
 
 /*
