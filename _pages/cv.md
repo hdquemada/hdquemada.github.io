@@ -306,13 +306,13 @@ Chairman 1991-1992.
 Publications:
 ======
 
-Entine J, Felipe MSS, Groenewald J-H, et al (2021) Regulatory approaches for genome edited agricultural plants in select countries and jurisdictions around the world. Transgenic Research. https://doi.org/10.1007/s11248-021-00257-8
+Entine J, Felipe MSS, Groenewald J-H, et al (2021) Regulatory approaches for genome edited agricultural plants in select countries and jurisdictions around the world. Transgenic Research. [10.1007/s11248-021-00257-8](https://doi.org/10.1007/s11248-021-00257-8){:target='_blank'}
 
 Kausch, A.P, Nelson-Vasilchik, K., Hague, J., Mookkan, M., **Quemada,
 H.**, Dellaporta, S., Fragoso, C., Zhang, A. 2019. Edit at Will:
 Genotype Independent Plant Transformation in the Era of Advanced
 Genomics and Genome Editing. Plant Science. doi:
-[10.1016/j.plantsci.2019.01.006](https://doi.org/10.1016/j.plantsci.2019.01.006)
+[10.1016/j.plantsci.2019.01.006](https://doi.org/10.1016/j.plantsci.2019.01.006){:target='_blank'}
 
 James, S., Collins, F., Welkhoff, P., Emerson, C., Godfray, H.,
 Gottlieb, M., Greenwood, B., Lindsay, S., Mbogo, C., Okumu, F.,
