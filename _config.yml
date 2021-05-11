@@ -84,7 +84,7 @@ author:
   avatar           : "DSC_0011-removebg.png"
   bio              : "Principal Research Associate"
   location         : "Kalamazoo, Michigan"
-  employer         : "Western Michigan<br>University"
+  employer         : "Western Michigan<br/>&nbsp;&nbsp;University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hector+quemada"
   googlescholar    : "https://scholar.google.com/citations?user=KD3qL8UAAAAJ&hl=en"
   email            : "hector.quemada@wmich.edu"
