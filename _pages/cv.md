@@ -20,7 +20,7 @@ Western Michigan University<br>
 1903 West Michigan Avenue<br>
 Kalamazoo, MI 49004 USA
 
-### Title:  
+### Title  
 
 Principal Research Associate
 
