@@ -9,22 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-### Name
+## Name
 
 Hector D. Quemada
 
-### Address
+## Address
 
 Department of Biological Sciences<br>
 Western Michigan University<br>
 1903 West Michigan Avenue<br>
 Kalamazoo, MI 49004 USA
 
-### Title  
+## Title  
 
 Principal Research Associate
 
-### Education and Degrees
+## Education and Degrees
 
 1979-1986 University of Utah, Salt Lake City, Utah.: Ph.D., Biology
 (Cell and Molecular Biology).
@@ -34,7 +34,7 @@ Principal Research Associate
 1973-1977 University of Kansas, Lawrence, Kansas.: B.S., Biology
 (Systematics and Ecology) with honors, *summa cum laude*.
 
-### Employment History
+## Employment History
 
 December 2018-Present Principal Research Associate, Department of
 Biological Sciences, Western Michigan University
@@ -145,12 +145,12 @@ for regulatory affairs, patents, and licensing.
 Cloned and engineered viral genes to confer viral resistance to plants;
 introduced these genes into plants as proof of concept.
 
-### Funded Research
+## Funded Research
 
 Gene Flow from Transgenic Cucurbita pepo into
 "Free-living" populations. USDA Risk Assessment Grant, 1999-2002. $130,000.
 
-### Other Funded projects
+## Other Funded projects
 
 Biotechnology/Biodiversity Interface grant program,
 component of USAID Program for Biosafety Systems. 2003-2008. $7,605,039.
@@ -166,7 +166,7 @@ National Institutes of Health. 2017-2019. $2,110,008.
 
 Support for FNIH Gene Drive Research Coordination. 2019-2023. $2,849,720
 
-### International Consultancies
+## International Consultancies
 
 World Bank and International Food Policy Research
 Institute (2006). Assessment of scientific capacity to support a regional
@@ -248,7 +248,7 @@ agricultural biotechnology programs in India, identified national needs
 for testing facilities, made recommendations for the placement and
 general features of those facilities.
 
-### Other
+## Other
 
 Reviewer, consensus report, "Genetically Engineered Crops: Past
 Experience and Future Prospects", 2016. United States National Academies
@@ -302,7 +302,7 @@ Chairman 1991-1992.
 
 1991-1992: Secretary, Upjohn Biosafety Regulatory Committee.
 
-### Publications
+## Publications
 
 Entine J, Felipe MSS, Groenewald J-H, et al (2021) Regulatory approaches for genome edited agricultural plants in select countries and jurisdictions around the world. Transgenic Research. [10.1007/s11248-021-00257-8](https://doi.org/10.1007/s11248-021-00257-8){:target='_blank'}
 
@@ -529,7 +529,7 @@ Nijhoff, Dordecht, The Netherlands.
 of tissue cultured soybean cells detected by digestion with the
 restriction enzymes HpaII and MspI. Plant Cell Reports 6: 63-66.
 
-### Patents
+## Patents
 
 U.S.: #6337431 "Transgenic plants expressing DNA constructs containing
 a plurality of genes to impart virus resistance."
