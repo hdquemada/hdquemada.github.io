@@ -1,0 +1,15 @@
+# hdquemada.github.io/robots.txt
+# Tell Google not to crawl any URLs in the shopping cart or images in the icons folder,
+# because they won't be useful in Google Search results.
+User-agent: googlebot
+Disallow: /_data/
+Disallow: /_drafts/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_sass/
+Disallow: /_talks/
+Disallow: /_teaching/
+Disallow: /assets/
+Disallow: /images/
+Disallow: /markdown_generator/
+Disallow: /talkmap/
