@@ -552,3 +552,11 @@ Therewith".
 Europe: E 107361 (Austria). "CMV coat protein gene."
 
 Notices of allowance received on others.
+
+
+<button onclick="getBackToBeginning()"> Click here to go back to the top of the page
+</button>
+<script>
+function getBackToBeginning() { window.scrollTo(0, 0);
+}
+</script>
