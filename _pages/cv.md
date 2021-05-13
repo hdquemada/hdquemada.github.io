@@ -554,7 +554,7 @@ Europe: E 107361 (Austria). "CMV coat protein gene."
 Notices of allowance received on others.
 
 [//]: # (This javascript adds a button to go back to the top)
-<button style="background-color:yellow" onclick="getBackToBeginning()"> Click here to go back to the top of the page
+<button style="background-color:#C0B283" onclick="getBackToBeginning()"> Click here to go back to the top of the page
 </button>
 <script>
 function getBackToBeginning() { window.scrollTo(0, 0);
