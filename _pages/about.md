@@ -4,7 +4,15 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5JY7X5D7TK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-5JY7X5D7TK');
+</script>
 ## My Bio
 
 I am a Principal Research Associate at Western Michigan University, working with the Foundation for the National Institutes of Health on a project aimed at strengthening capacity of regulators in Africa, for regulating gene drive technologies.  Prior to this, I was Director of the Biosafety Resource Network at the Donald Danforth Plant Science Center, a project that provided regulatory and product development expertise for publicly funded transgenic crop development projects.  Before joining the Danforth Center, I was the manager of the Biotechnology and Biodiversity Interface grant component of the Program for Biosafety Systems, a USAID project supporting research to generate data relevant to risk assessments of crops in developing countries.  I was the founder of Crop Technology Consulting, Inc., a consulting firm conducting technical and biosafety assessment for biotechnology programs in developing countries, and developing regulatory approval dossiers for public and private crop development organizations.  I have experience developing transgenic crop varieties for the private sector.
