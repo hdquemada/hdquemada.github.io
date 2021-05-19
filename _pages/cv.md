@@ -258,12 +258,14 @@ general features of those facilities.
 
 ## Other
 
+Member, Core Working Group for "Guidance Framework for Testing Genetically Modified Mosquitoes, Second Edition", 2021. World Health Organization
+
 Reviewer, consensus report, "Genetically Engineered Crops: Past
 Experience and Future Prospects", 2016. United States National Academies
 of Sciences Engineering and Medicine.
 
-Member, Core Working Group for "Guidance framework for testing of
-genetically modified mosquitoes", 2014. World Health Organization.
+Member, Core Working Group for "Guidance Framework for Testing of
+Genetically Modified Mosquitoes", 2014. World Health Organization.
 
 Science Advisor, International Food Biotechnology Committee,
 International Life Sciences Institute, 2011-2013.
