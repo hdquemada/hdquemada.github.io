@@ -1,5 +1,5 @@
 ---
-title: "Guidance Framework for Testing Genetically Modified Mosquitoes, Second Edition"
+title: "Risk management recommendations for environmental releases of gene drive modified insects"
 collection: publications
 permalink: /publication/BiotechnologyAdvances
 date: 2021-07-27
