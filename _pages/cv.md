@@ -318,9 +318,10 @@ Devos Y, Mumford JD, Bonsall MB, et al (2021) Risk management recommendations fo
 
 Entine J, Felipe MSS, Groenewald J-H, et al (2021) Regulatory approaches for genome edited agricultural plants in select countries and jurisdictions around the world. Transgenic Research. [10.1007/s11248-021-00257-8](https://doi.org/10.1007/s11248-021-00257-8){:target='_blank'}
 
-Kausch, A.P, Nelson-Vasilchik, K., Hague, J., Mookkan, M., **Quemada,
-H.**, Dellaporta, S., Fragoso, C., Zhang, A. 2019. Edit at Will:
-Genotype Independent Plant Transformation in the Era of Advanced
+Mbabazi R, **Quemada H**, Shore S, et al (2020) Regulatory Capacity Strengthening for Gene-Drive Technology Applications for Vector-Borne Disease Control in Africa. Michigan State University.
+[WorldTAP Policy Brief 7](https://www.canr.msu.edu/worldtap/uploads/files/7.%20Policy%20Brief%207%20-%20Regulatory%20Capacity%20For%20Gene%20Drive%20Technology%20application%20.pdf){:target='_blank'}
+
+Kausch, A.P, Nelson-Vasilchik, K., Hague, J., Mookkan, M., **Quemada, H.**, Dellaporta, S., Fragoso, C., Zhang, A. 2019. Edit at Will: Genotype Independent Plant Transformation in the Era of Advanced
 Genomics and Genome Editing. Plant Science. doi:
 [10.1016/j.plantsci.2019.01.006](https://doi.org/10.1016/j.plantsci.2019.01.006){:target='_blank'}
 
