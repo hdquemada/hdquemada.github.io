@@ -2,7 +2,7 @@
 title: "Regulatory Capacity Strengthening for Gene-Drive Technology Applications for Vector-Borne Disease Control in Africa"
 collection: publications
 permalink: /publication/WorldTAPReport7
-date: 2020-01
+date: 2020-01-01
 venue: 'Michigan State University'
 citation: 'Mbabazi R, Quemada H, Shore S, et al (2020) Regulatory Capacity Strengthening for Gene-Drive Technology Applications for Vector-Borne Disease Control in Africa. Michigan State University'
 ---
