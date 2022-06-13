@@ -314,6 +314,8 @@ Chairman 1991-1992.
 
 ## Publications
 
+**Quemada, H** (2022) Lessons learned from the introduction of genetically engineered crops: relevance to gene drive deployment in Africa. Transgenic Research. [https://doi.org/10.1007/s11248-022-00300-2](https://doi.org/10.1007/s11248-022-00300-2){:target='_blank'}
+
 Devos Y, Mumford JD, Bonsall MB, et al (2021) Risk management recommendations for environmental releases of gene drive modified insects. Biotechnology Advances 107807. [https://doi.org/10.1016/j.biotechadv.2021.107807](https://doi.org/10.1016/j.biotechadv.2021.107807){:target='_blank'}
 
 Entine J, Felipe MSS, Groenewald J-H, et al (2021) Regulatory approaches for genome edited agricultural plants in select countries and jurisdictions around the world. Transgenic Research. [10.1007/s11248-021-00257-8](https://doi.org/10.1007/s11248-021-00257-8){:target='_blank'}
