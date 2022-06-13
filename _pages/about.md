@@ -5,9 +5,8 @@ excerpt: "About me"
 author_profile: true
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JY7X5D7TK"></script>
-//-->
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
