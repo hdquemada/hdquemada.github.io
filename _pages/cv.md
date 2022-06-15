@@ -21,17 +21,6 @@ To date, applications of genetic engineering have been in agricultural or indust
 
 Hector D. Quemada
 
-## Address
-
-Department of Biological Sciences<br>
-Western Michigan University<br>
-1903 West Michigan Avenue<br>
-Kalamazoo, MI 49004 USA
-
-## Title  
-
-Principal Research Associate
-
 ## Education and Degrees
 
 1979-1986 University of Utah, Salt Lake City, Utah.: Ph.D., Biology
@@ -44,7 +33,9 @@ Principal Research Associate
 
 ## Employment History
 
-December 2018-Present Principal Research Associate, Department of
+**July 2022-Present** Retired
+
+**December 2018-June 2022** Principal Research Associate, Department of
 Biological Sciences, Western Michigan University
 
 Led a group of consultants to work with the Foundation for the National
@@ -53,7 +44,7 @@ regulators in several countries in Africa with the necessary technical
 background and strengthened capacity to handle applications for research
 and eventual deployment of gene drive technology.H
 
-November 2008-December 2018 Director, Biosafety Resource Network, Donald
+**November 2008-December 2018** Director, Biosafety Resource Network, Donald
 Danforth Plant Science Center
 
 Direct a worldwide network of consultants to provide regulatory science
@@ -67,12 +58,12 @@ in Africa; development of regulatory approval packages for transgenic
 crops, including virus resistant and biofortified cassava and insect
 resistant cowpea. Extensive experience working in Africa and Asia.
 
-August 2007-2010 Adjunct Professor of Biology, Calvin College
+**2007-2010** Adjunct Professor of Biology, Calvin College
 
 Team-teach Biology and Biotechnology courses; organize and implement
 interim session classes.
 
-July 2003-2010 Manager, Biotechnology and Biodiversity Interface grant
+**2003-2010** Manager, Biotechnology and Biodiversity Interface grant
 component, Program for Biosafety Systems
 
 Manage BBI grant program, funding research conducted by African and
@@ -81,7 +72,7 @@ environment. Provide technical support to developing countries in the
 area of biosafety regulations and policy for USAID's Program for
 Biosafety Systems.
 
-September 1997-November 2008 President and Principal Consultant, Crop
+**1997-2008** President and Principal Consultant, Crop
 Technology Consulting, Inc.
 
 Prepared submissions to US and foreign regulatory agencies for movement,
@@ -97,27 +88,27 @@ biotechnology policy, research capability, and biosafety. Foreign
 assignments include consultations in India, the Philippines, Egypt,
 Uganda, Kenya, South Africa, Indonesia and Thailand.
 
-January 2002-December 2005. Executive Vice President and Treasurer,
+**2002-2005** Executive Vice President and Treasurer,
 Avenir Associates.
 
 Provided interim management services to clients in the life sciences
 industry. Assisted clients in developing and implementing regulatory
 compliance programs.
 
-2007-2008 Adjunct Associate Professor of Biology, Calvin University
+**2007-2008** Adjunct Associate Professor of Biology, Calvin University
 
-2003-2007 Principal Research Associate, Western Michigan University
+**2003-2007** Principal Research Associate, Western Michigan University
 
-2000-2003 Adjunct Professor of Biology, Western Michigan University
+**2000-2003** Adjunct Professor of Biology, Western Michigan University
 
-1995-2000 Adjunct Assistant Professor of Biology, Western Michigan
+**1995-2000** Adjunct Assistant Professor of Biology, Western Michigan
 University
 
 Conducted research activities funded by USDA: the study of long-term
 ecological consequences of release of transgenic crops, using squash as
 a model system. Lecturing in food science and plant biology courses.
 
-June 1996-August 1997 Associate Director, Biotechnology, Asgrow Seed
+**1996-1997** Associate Director, Biotechnology, Asgrow Seed
 Company
 
 Responsible for establishing an internal biotechnology research group
@@ -127,7 +118,7 @@ strategic plan for biotechnology research program, technology
 acquisition, management of external collaborations and contracts,
 regulatory affairs, licensing, patent issues.
 
-1994-June 1996 Associate Director, Vegetable Biotechnology and Seed
+**1994-1996** Associate Director, Vegetable Biotechnology and Seed
 Technology, Asgrow Seed Company
 
 Managed a biotechnology research group; managed a seed biology research
@@ -135,20 +126,20 @@ group. Responsible for strategic planning for the biotechnology program,
 managing external collaborations, project feasibility assessment,
 product development, regulatory affairs, patents, and licensing.
 
-1991-1994 Associate Director, Vegetable Biotechnology, Asgrow Seed
+**1991-1994** Associate Director, Vegetable Biotechnology, Asgrow Seed
 Company.
 
 Managed a biotechnology research group. Responsible for managing
 external collaborations, project feasibility assessment, product
 development, regulatory affairs, patents, and licensing.
 
-1989-1991 Vegetable Project Manager, Asgrow Seed Company.
+**1989-1991** Vegetable Project Manager, Asgrow Seed Company.
 
 Managed a research group and participated in biotechnology research;
 participated in field research with transgenic plants. Also responsible
 for regulatory affairs, patents, and licensing.
 
-1986-1989 Visiting Scientist, The Upjohn Company.
+**1986-1989** Visiting Scientist, The Upjohn Company.
 
 Cloned and engineered viral genes to confer viral resistance to plants;
 introduced these genes into plants as proof of concept.
