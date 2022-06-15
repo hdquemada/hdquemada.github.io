@@ -1,0 +1,16 @@
+Searching 260 files for "Verdana"
+
+/Users/hdquemada/Documents/GitHub/hdquemada.github.io/_sass/_variables.scss:
+   15  /* system typefaces */
+   16  $serif                      : Lato, "Times New Roman", serif;
+   17: $sans-serif                 : Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+   18  $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+   19  
+   ..
+   21  $sans-serif-narrow          : $sans-serif;
+   22  $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+   23: $Montserrat                 : Montserrat, sans-serif;
+   24  
+   25  /* serif typefaces */
+
+3 matches in 1 file
