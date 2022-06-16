@@ -12,7 +12,8 @@ body {
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
-  font-family: $georgia;
+  font-family: $lora;
+  font-size: 21px;
   line-height: 1.5;
 
   &.overflow--hidden {
