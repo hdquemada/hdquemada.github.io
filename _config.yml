@@ -83,7 +83,7 @@ author:
   name             : "Hector Quemada"
   avatar           : "DSC_0011-removebg.png"
   bio              : "Retired biologist"
-  location         : "Kalamazoo, Michigan"
+  # location         : "Kalamazoo, Michigan"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hector+quemada"
   googlescholar    : "https://scholar.google.com/citations?user=KD3qL8UAAAAJ&hl=en"
