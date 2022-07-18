@@ -249,6 +249,8 @@ general features of those facilities.
 
 ## Other
 
+Associate Editor, *Frontiers in Bioengineering and Biotechnology*, 2022-present.
+
 Member, Core Working Group for "Guidance Framework for Testing Genetically Modified Mosquitoes, Second Edition", 2021. World Health Organization.
 
 Reviewer, consensus report, "Genetically Engineered Crops: Past
