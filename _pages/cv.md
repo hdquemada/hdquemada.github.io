@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Hector Quemada"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-<p><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="3em" height="3em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M9 2a4 4 0 1 0 0 8a4 4 0 0 0 0-8Zm-4.991 9A2.001 2.001 0 0 0 2 13c0 1.691.833 2.966 2.135 3.797C5.417 17.614 7.145 18 9 18c.41 0 .816-.019 1.21-.057A5.477 5.477 0 0 1 9 14.5c0-1.33.472-2.55 1.257-3.5H4.01Zm9.866 1.5a.625.625 0 1 1 1.25 0a.625.625 0 0 1-1.25 0Zm1.125 4a.5.5 0 0 1-1 0v-2a.5.5 0 0 1 1 0v2Zm-5-2a4.5 4.5 0 1 1 9 0a4.5 4.5 0 0 1-9 0Zm1 0a3.5 3.5 0 1 0 7 0a3.5 3.5 0 0 0-7 0Z"/></svg></p>
-<h1>My Bio</h1></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="3em" height="3em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M9 2a4 4 0 1 0 0 8a4 4 0 0 0 0-8Zm-4.991 9A2.001 2.001 0 0 0 2 13c0 1.691.833 2.966 2.135 3.797C5.417 17.614 7.145 18 9 18c.41 0 .816-.019 1.21-.057A5.477 5.477 0 0 1 9 14.5c0-1.33.472-2.55 1.257-3.5H4.01Zm9.866 1.5a.625.625 0 1 1 1.25 0a.625.625 0 0 1-1.25 0Zm1.125 4a.5.5 0 0 1-1 0v-2a.5.5 0 0 1 1 0v2Zm-5-2a4.5 4.5 0 1 1 9 0a4.5 4.5 0 0 1-9 0Zm1 0a3.5 3.5 0 1 0 7 0a3.5 3.5 0 0 0-7 0Z"/></svg>
+<h1>CV of Hector Quemada</h1></p>
+
+## My Bio
 
 I am a retired biologist, with a Ph.D. in Plant Molecular Biology. My last position was as a Principal Research Associate at Western Michigan University, working with the Foundation for the National Institutes of Health on a project aimed at strengthening capacity of regulators in Africa, for regulating gene drive technologies.  Prior to this, I was Director of the Biosafety Resource Network at the Donald Danforth Plant Science Center, a project that provided regulatory and product development expertise for publicly funded transgenic crop development projects.  Before joining the Danforth Center, I was the manager of the Biotechnology and Biodiversity Interface grant component of the Program for Biosafety Systems, a USAID project supporting research to generate data relevant to risk assessments of crops in developing countries.  I was the founder of Crop Technology Consulting, Inc., a consulting firm conducting technical and biosafety assessment for biotechnology programs in developing countries, and developing regulatory approval dossiers for public and private crop development organizations.  I have had experience developing transgenic crop varieties for the private sector.
 
