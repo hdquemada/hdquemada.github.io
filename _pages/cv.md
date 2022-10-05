@@ -309,7 +309,7 @@ Chairman 1991-1992.
 
 ## Publications
 
-Tonui W, Ahuja V, Beech C, Connolly J,Dass B, Glandorf D, James J, Muchiri J, Mugoya C, Okoree E, **Quemada** H, Romeis J. 2022. Rationalizing governance of genetically modified products in developing countries. Nature Biotechnology 36: 137-139.
+Tonui W, Ahuja V, Beech C, Connolly J,Dass B, Glandorf D, James J, Muchiri J, Mugoya C, Okoree E, **Quemada** H, Romeis J. 2022. Rationalizing governance of genetically modified products in developing countries. Nature Biotechnology 36: 137-139. [https://link.springer.com/article/10.1007/s11248-022-00311-z](https://link.springer.com/article/10.1007/s11248-022-00311-z){:target='blank'}
 
 **Quemada, H** (2022) Lessons learned from the introduction of genetically engineered crops: relevance to gene drive deployment in Africa. Transgenic Research. [https://doi.org/10.1007/s11248-022-00300-2](https://doi.org/10.1007/s11248-022-00300-2){:target='_blank'}
 
