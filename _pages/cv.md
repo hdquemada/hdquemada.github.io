@@ -60,7 +60,7 @@ in Africa; development of regulatory approval packages for transgenic
 crops, including virus resistant and biofortified cassava and insect
 resistant cowpea. Extensive experience working in Africa and Asia.
 
-**2007-2010** Adjunct Professor of Biology, Calvin College
+**2008-2010** Adjunct Professor of Biology, Calvin College
 
 Team-teach Biology and Biotechnology courses; organize and implement
 interim session classes.
