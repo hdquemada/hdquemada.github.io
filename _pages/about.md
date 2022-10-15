@@ -12,3 +12,7 @@ I am a retired biologist. For professional information prior to my retirement, p
 <p>
 <img src="/images/email.png" alt="email icon" width="50"> If you'd like to send me a message, please use <a href="https://formsubmit.co/el/yagexe" target="_blank">This link</a>
 </p>
+
+<p>
+If you'd like to send me a message, please use this link: <a href="https://formsubmit.co/el/yagexe" target="_blank"><img alt="email" src="/images/email.png" width="50">
+</p>
