@@ -251,7 +251,7 @@ general features of those facilities.
 
 ## Other
 
-Co-editor, "Policy and Regulation in Bioengineering and Biotechnology ", *Frontiers in Bioengineering and Biotechnology* 2023. https://www.frontiersin.org/research-topics/45536/policy-and-regulation-in-bioengineering-and-biotechnology
+Co-editor, "Policy and Regulation in Bioengineering and Biotechnology ", *Frontiers in Bioengineering and Biotechnology* 2023. <https://www.frontiersin.org/research-topics/45536/policy-and-regulation-in-bioengineering-and-biotechnology>
 
 Associate Editor, *Frontiers in Bioengineering and Biotechnology*, 2022-present.
 
