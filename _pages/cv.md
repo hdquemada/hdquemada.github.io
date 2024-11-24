@@ -311,6 +311,9 @@ Chairman 1991-1992.
 
 ## Publications
 
+Ogoyi D, Njagi J, Tonui W, Dass B, **Quemada** H, James S. 2024. Post-release monitoring pathway for the deployment of gene drive-modified mosquitoes for malaria control in Africa. Malaria Journal 23:351 [https://malariajournal.biomedcentral.com/articles/10.1186/s12936-024-05179-4](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-024-05179-4){:target='_blank'}
+
+
 James S, **Quemada H**, Benedict M, Dass B. 2023. Requirements for market entry of gene drive-modified mosquitoes for control of vector-borne diseases: analogies to other biologic and biotechnology products. Frontiers in Bioengineering and Biotechnology. Vol 11 [https://doi.org/10.3389/fbioe.2023.1205865](https://doi.org/10.3389/fbioe.2023.1205865){:target='_blank'}
 
 Taitingfong R, Triplett C, Vásquez V, Rajagopalan R, Raban R, Roberts A, Terradas G, Baumgartner B, Emerson C, Gould F, Okumu F, Schairer C, Bossin H, Buchman L, Campbe K, Clark A, Delborne J, Esvelt K, Fisher J, Friedman R, Gronvall G, Gurfield N,Heitman L, Kofler N, Kuiken T, Kuzma J, Manrique-Saide P, Marshall J,Montague M, Morrison A, Opesen C, Phelan R,Piaggio A, **Quemada H**, Rudenko L, Sawadogo N, Smith R, Tuten H, Ullah A, Vorsino A, Windbichler N, Akbari O, Long K, Lavery J, Weiss Evans s, Tountas K, Bloss C. 2022. Exploring the value of a global gene drive project registry. Nature Biotechnology [https://doi.org/10.1038/s41587-022-01591-w](https://doi.org/10.1038/s41587-022-01591-w){:target='_blank'}
