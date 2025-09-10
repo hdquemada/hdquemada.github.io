@@ -272,7 +272,7 @@ G2, to South African Executive Committee, July 2008. Collaboration
 between Michigan State University and the Agricultural Research
 Council-Vegetable and Ornamental Plant Institute, South Africa.
 
-Associate Editor, *Transgenic Research*, 2001-present.
+Associate Editor, *Transgenic Research*, 2001-2025.
 
 Steering Committee Member, Workshop on Research to Improve the
 Evaluation of the Impact os Genetically Engineered Organisms on
